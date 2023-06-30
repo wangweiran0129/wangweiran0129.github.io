@@ -1,0 +1,114 @@
+---
+layout: archive
+permalink: /gallery/
+author_profile: true
+---
+
+{% include base_path %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .gallery{
+            display: grid;
+            grid-template-columns: 1fr;
+            /*grid-gap: 1px;*/
+        }
+
+        .gallery figure{
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            text-align: center;
+            position: relative;
+        }
+
+        .gallery img {
+            width: 90%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 2px 4px 8px 4px rgba(0, 0, 0, 0.4);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .gallery figure:hover img {
+            transform: scale(1.05);
+        }
+
+        .gallery figure:hover figcaption {
+            opacity: 1;
+        }
+
+        .gallery figcaption {
+            font-size: 15px;
+            text-align: center;
+            opacity: 1;
+            transition: opacity 0.3s ease-in-out;
+        }
+    </style>
+</head>
+
+<body>
+    <p>Please feel free to visit my gallery (the photo is a hyperlink) and use the pin inside the bracket to download photos.</p>
+    <div class="gallery">
+
+        <a href="https://weiran.pixieset.com/sweden/">
+            <figure>
+                <img src="../images/sweden.jpeg" alt="Sweden">
+                <figcaption>Sweden: 6682</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://weiran.pixieset.com/austria/">
+            <figure>
+                <img src="../images/austria.jpeg" alt="Austria">
+                <figcaption>Austria: 8946</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://weiran.pixieset.com/switzerland/">
+            <figure>
+                <img src="../images/switzerland.jpeg" alt="Switzerland">
+                <figcaption>Switzerland: 7096</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://weiran.pixieset.com/spain/">
+            <figure>
+                <img src="../images/spain.jpeg" alt="Spain">
+                <figcaption>Spain: 2244</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://weiran.pixieset.com/france/">
+            <figure>
+                <img src="../images/france.jpeg" alt="France">
+                <figcaption>France: 6331</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://weiran.pixieset.com/italy/">
+            <figure>
+                <img src="../images/Italy.jpeg" alt="Italy">
+                <figcaption>Italy: 2241</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://weiran.pixieset.com/liechtenstein/">
+            <figure>
+                <img src="../images/Liechtenstein.jpeg" alt="Liechtenstein">
+                <figcaption>Liechtenstein: 3810</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://weiran.pixieset.com/iceland/">
+            <figure>
+                <img src="../images/Iceland.jpeg" alt="Iceland">
+                <figcaption>Iceland: 2619</figcaption>
+            </figure>
+        </a>
+    </div>
+    <br>
+</body>
+</html>
