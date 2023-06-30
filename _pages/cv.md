@@ -11,7 +11,7 @@ author_profile: true
   <li>
     <b>MSc in Cloud and Network Infrastructure</b>, <a href="https://www.kth.se/en">Royal Institute of Technology (KTH)</a>, Stockholm, Sweden (Aug 2020 - Mar 2023)  
     <ul> 
-      <li>Thesis: Analysis of Flow Prolongation Using GNN in FIFO Multiplexing System [<a href="https://github.com/wangweiran0129/Degree_Project_Network_Calculus">code</a>][<a href="http://https://wangweiran0129.github.io/weiranwang.github.io/files/Analysis_of_Flow_Prolongation_Using_Graph_Neural_Network_GNN_in_FIFO_Multiplexing_System.pdf">pdf</a>][<a href="http://https://wangweiran0129.github.io/weiranwang.github.io/files/Defense_Slide.pdf">slide</a>]</li>
+      <li>Thesis: Analysis of Flow Prolongation Using GNN in FIFO Multiplexing System [<a href="https://github.com/wangweiran0129/Degree_Project_Network_Calculus">code</a>][<a href="https://wangweiran0129.github.io/weiranwang.github.io/files/Analysis_of_Flow_Prolongation_Using_Graph_Neural_Network_GNN_in_FIFO_Multiplexing_System.pdf">pdf</a>][<a href="http://wangweiran0129.github.io/weiranwang.github.io/files/Defense_Slide.pdf">slide</a>]</li>
       <li>Thesis done at <a href="https://www.epfl.ch/labs/lca2/">Laboratory for Communications and Applications 2</a> during my exchange at EPFL</li>
       <li>EPFL Supervisor: <a href="https://people.epfl.ch/hossein.tabatabaee">Seyed Mohammadhossein Tabatabaee</a></li> 
       <li>EPFL Examiner: <a href="https://people.epfl.ch/jean-yves.leboudec">Prof. Jean-Yves Le Boudec</a></li>
