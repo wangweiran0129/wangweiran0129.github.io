@@ -11,9 +11,9 @@ title                    : "Weiran Wang"
 title_separator          : "-"
 name                     : &name "Weiran Wang"
 description              : &description "5G Baseband SW Dev"
-url                      : https://wangweiran0129.github.io/weiranwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wangweiran0129.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wangweiran0129/weiranwang.github.io"
+repository               : "wangweiran0129/wangweiran0129.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
