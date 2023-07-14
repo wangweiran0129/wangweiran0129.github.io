@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About Myself
+======
 I am currently working as a 5G Baseband Software Developer at [Ericsson](https://www.ericsson.com/en) in Stockholm, Sweden.
 
 Prior to that, I obtained my MSc from [Royal Institute of Technology (KTH)](https://www.kth.se/en) in 2023 and my programme was [ICT Innovation](https://www.kth.se/en/studies/master/ict-innovation) - track Cloud and Network Infrastructure at the [School of Electrical Engineering and Computer Science](https://www.kth.se/en/eecs/skolan-for-elektroteknik-och-datavetenskap-1.760855). During my master study, I did an one-year exchange during the 2022-2023 academic year at [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) in Lausanne, Switzerland where I also finished my master thesis. During my study at KTH, I was honored the KTH Covid-19 Financial Aid Scholarship based on my academic excellence.

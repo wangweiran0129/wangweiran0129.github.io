@@ -11,7 +11,7 @@ author_profile: true
   <li>
     <b>MSc in Cloud and Network Infrastructure</b>, <a href="https://www.kth.se/en">Royal Institute of Technology (KTH)</a>, Stockholm, Sweden (Aug 2020 - Mar 2023)  
     <ul> 
-      <li>Thesis: Analysis of Flow Prolongation Using GNN in FIFO Multiplexing System [<a href="https://github.com/wangweiran0129/Degree_Project_Network_Calculus">code</a>][<a href="https://wangweiran0129.github.io/weiranwang.github.io/files/Analysis_of_Flow_Prolongation_Using_Graph_Neural_Network_GNN_in_FIFO_Multiplexing_System.pdf">pdf</a>][<a href="http://wangweiran0129.github.io/weiranwang.github.io/files/Defense_Slide.pdf">slide</a>]</li>
+      <li>Thesis: Analysis of Flow Prolongation Using GNN in FIFO Multiplexing System [<a href="https://github.com/wangweiran0129/Degree_Project_Network_Calculus">code</a>][<a href="https://wangweiran0129.github.io/files/Analysis_of_Flow_Prolongation_Using_Graph_Neural_Network_GNN_in_FIFO_Multiplexing_System.pdf">pdf</a>][<a href="http://wangweiran0129.github.io/files/Defense_Slide.pdf">slide</a>]</li>
       <li>Thesis done at <a href="https://www.epfl.ch/labs/lca2/">Laboratory for Communications and Applications 2</a> during my exchange at EPFL</li>
       <li>EPFL Supervisor: <a href="https://people.epfl.ch/hossein.tabatabaee">Seyed Mohammadhossein Tabatabaee</a></li> 
       <li>EPFL Examiner: <a href="https://people.epfl.ch/jean-yves.leboudec">Prof. Jean-Yves Le Boudec</a></li>
@@ -24,7 +24,7 @@ author_profile: true
   <li>
     <b>BSc in Software Engineering</b>, <a href="https://en.dlut.edu.cn/">Dalian University of Technology (DUT)</a>, Dalian, China (Sep 2016 - Jun 2020)
     <ul>
-      <li>Thesis: The Research on Virtual Function Scheduling of Edge Network Based on Game Theory [<a href="https://wangweiran0129.github.io/weiranwang.github.io/files/The_Research_on_Virtual_Function_Scheduling_of_Edge_Network_Based_on_Game_Theory.pdf">pdf</a>]</li>
+      <li>Thesis: The Research on Virtual Function Scheduling of Edge Network Based on Game Theory [<a href="https://wangweiran0129.github.io/files/The_Research_on_Virtual_Function_Scheduling_of_Edge_Network_Based_on_Game_Theory.pdf">pdf</a>]</li>
       <li> Supervisors: <a href="https://zichuanxu.com/">Prof. Zichuan Xu</a>, <a href="http://faculty.dlut.edu.cn/qfx/en/index.htm">Dr. Qiufen Xia</a></li>
     </ul>
   </li>
