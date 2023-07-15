@@ -1,0 +1,106 @@
+---
+layout: archive
+permalink: /cuisine/
+author_profile: true
+---
+
+{% include base_path %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .cuisine{
+            display: grid;
+            grid-template-columns: 2fr;
+            /*grid-gap: 1px;*/
+        }
+
+        .cuisine figure{
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            text-align: center;
+            position: relative;
+        }
+
+        .cuisine img {
+            width: 90%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 2px 4px 8px 4px rgba(0, 0, 0, 0.4);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .cuisine figure:hover img {
+            transform: scale(1.05);
+        }
+
+        .cuisine figure:hover figcaption {
+            opacity: 1;
+        }
+
+        .cuisine figcaption {
+            font-size: 15px;
+            text-align: center;
+            opacity: 1;
+            transition: opacity 0.3s ease-in-out;
+        }
+    </style>
+</head>
+
+<body>
+    <p>Je dresse la table de ma nouvelle vie et le festin est sur mon chemin.</p>
+    <div class="cuisine">
+
+        <figure>
+            <img src="../images/Paella.JPG" alt="Paella">
+            <figcaption>Paella</figcaption>
+        </figure>
+
+        <figure>
+            <img src="../images/Steak with Carrort Potato and Pea.JPG" alt="Steak with Carrort Potato and Pea">
+            <figcaption>Steak with Carrort Potato and Pea</figcaption>
+        </figure>
+
+        <figure>
+            <img src="../images/Beef Bourguignon 1.jpg" alt="Beef Bourguignon 1">
+            <figcaption>Beef Bourguignon 1</figcaption>
+        </figure>
+
+        <figure>
+            <img src="../images/Beef Bourguignon 2.jpg" alt="Beef Bourguignon 2.jpg">
+            <figcaption>Beef Bourguignon 2.jpg</figcaption>
+        </figure>
+
+        <a href="https://weiran.pixieset.com/france/">
+            <figure>
+                <img src="../images/france.jpeg" alt="France">
+                <figcaption>France: 6331</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://weiran.pixieset.com/italy/">
+            <figure>
+                <img src="../images/Italy.jpeg" alt="Italy">
+                <figcaption>Italy: 2241</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://weiran.pixieset.com/liechtenstein/">
+            <figure>
+                <img src="../images/Liechtenstein.jpeg" alt="Liechtenstein">
+                <figcaption>Liechtenstein: 3810</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://weiran.pixieset.com/iceland/">
+            <figure>
+                <img src="../images/Iceland.jpeg" alt="Iceland">
+                <figcaption>Iceland: 2619</figcaption>
+            </figure>
+        </a>
+    </div>
+    <br>
+</body>
+</html>

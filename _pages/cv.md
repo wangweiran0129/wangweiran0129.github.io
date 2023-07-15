@@ -8,6 +8,7 @@ author_profile: true
 
 <h1>Two Pages CV</h1>
 For the formalized two-pages CV pdf, please refer <a href="https://wangweiran0129.github.io/files/Weiran_Wang_CV.pdf">here</a>.
+<br>
 
 <h1>Educational Background</h1>
 <ul>
