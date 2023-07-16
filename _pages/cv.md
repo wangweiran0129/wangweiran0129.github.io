@@ -35,7 +35,7 @@ For the formalized two-pages CV pdf, please refer <a href="https://wangweiran012
 </ul>
 <br>
 
-<h1>Working Experiences</h1>
+<h1>Industrial Experiences</h1>
 <ul>
   <li><b>5G Baseband Software Developer</b>, <a href="https://www.ericsson.com/en">Ericsson</a>, Stockholm, Sweden (Sep 2022 - Ongoing)</li>
   <ul>
@@ -62,6 +62,19 @@ For the formalized two-pages CV pdf, please refer <a href="https://wangweiran012
   <li><a href="https://github.com/wangweiran0129/KTH_EP2200_Queuing-Theory-and-Teletraffic-Systems">KTH EP2200 Queuing Theory and Teletraffic Systems</a></li>
   <li><a href="https://github.com/wangweiran0129/KTH_ID2221_Data-Intensive-Computing">KTH ID2221 Data Intensive Computing</a></li>
   <li><a href="https://github.com/wangweiran0129/KTH_IK2215_Advanced-Internetworking">KTH IK2215 Advanced Internetworking</a></li>
+</ul>
+<br>
+
+<h1>Selected Awards</h1>
+<ul>
+  <li>2022 KTH Erasmus+ Scholarship</li>
+  <li>2021 EPFL Swiss‑European Mobility Program (SEMP) Scholarship</li>
+  <li>2021 KTH Covid‑19 Financial Aid Scholarship Based on Academic Excellence</li>
+  <li>2020 Distinguished Graduate of Dalian City</li>
+  <li>2020 Outstanding Undergraduate Thesis of Dalian University of Technology</li>
+  <li>2019 Outstanding Position Paper in UNIDO of National Model United Nations New York Conference</li>
+  <li>2019 Honorable Mention Delegation Award of National Model United Nations New York Conference</li>
+  <li>2018 Outstanding Youth League Member of Dalian University of Technology</li>
 </ul>
 <br>
 
