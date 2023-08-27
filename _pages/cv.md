@@ -99,5 +99,5 @@ For the formalized two-pages CV pdf, please refer <a href="https://wangweiran012
 <br>
 
 <h1>Fun Facts</h1>
-I am an outdoor sports enthusiasts: skiing in the Swiss Alps during the winter ⛷️ and diving in the Mediterranean during the summer 🤿 have been my annual sacred cow.
+I am an outdoor sports enthusiasts: skiing in the Swiss Alps during the winter ⛷️ and diving in the Mediterranean during the summer 🤿 have been my annual sacred cow. Yes, I have an <a href="https://drive.google.com/file/d/1Ch8Ajgckvbv-Z73niMWj1QG_5HpNdOCn/view?usp=sharing">open water diving certificate</a>.
 <br>

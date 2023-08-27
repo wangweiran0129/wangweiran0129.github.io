@@ -22,10 +22,10 @@ My Research Interests
 ======
 My research interests include but not limited to:
 <ul id="research_interest">
- <li> Network Function Virtualization (NFV) and Software Defined Network (SDN) </li>
+ <li> Resource deployment for NFV service chain </li>
  <li> Network Calculus (NC), especially in the delay bound </li>
- <li> Network performance improvement by means of machine learning </li>
- <li> Telecom areas including 5G RAN and Cloud Random Access Network (RAN) </li>
+ <li> Network performance improvement by means of machine learning and game theory </li>
+ <li> Telecom areas including 5G RAN and Cloud RAN </li>
 </ul>
 
 <br>
