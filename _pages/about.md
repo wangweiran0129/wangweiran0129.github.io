@@ -20,12 +20,12 @@ For my future plan, I am about to seek for a PhD in the US in the coming applica
 
 My Research Interests
 ======
-My research interests straddle the complex domain of networked systems and its interdisciplinary interfaces include but not limited to:
+My research interests, straddling the complex domain of networked systems and its interdisciplinary interfaces, include but not limited to:
 <ul id="research_interest">
- <li> Resource deployment and allocation for NFV service chain </li>
- <li> Network Calculus (NC), especially in the delay bound for time sensitive networks </li>
- <li> Network performance improvement by means of machine learning and game theory </li>
- <li> Telecom areas including 5G RAN and Cloud RAN </li>
+ <li> Network resource allocation and deployment </li>
+ <li> The research on Network Calculus itself and its application in the design of performance guaranteed networked systems </li>
+ <li> The application of machine learning and game theory in the optimization of networked systems </li>
+ <li> Telecom areas including 5G RAN and Cloud RAN (Now, I am working on the virtualization of upplink control plane)</li>
 </ul>
 
 <br>

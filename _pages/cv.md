@@ -39,16 +39,17 @@ For the formalized two-pages CV pdf, please refer <a href="https://wangweiran012
 <ul>
   <li><b>5G Baseband Software Developer</b>, <a href="https://www.ericsson.com/en">Ericsson</a>, Stockholm, Sweden (Sep 2022 - Ongoing)</li>
   <ul>
-    <li>Work in Module Product Care Team of User Plane Control Uplink whose main objective is to make baseband source code more robust and predictable</li>
-    <li>Improve the code quality and diagnose potential bugs via CodeChecker</li>
-    <li>Developing a dashboard for Software Quality Indications Framework to make sure that all quality initiative improvements are systematic</li>
-    <li>Developed a python tool to collect collect checkers from both global and local control elements' config files; read the merge mode from the profile file and provide the final checker's setting</li>
+    <li>Integrating 5G RAN and Cloud RAN into One RAN</li>
+    <li>Serving on the Module Product Care for User Plane Control Uplink, aiming to enhance the robustness of 5G baseband source code.</li>
+    <li>Developed a framework for Software Quality Indications to track quality improvement initiatives systematically.</li>
+    <li>Improved code quality and identified potential bugs by using static and dynamic code analysis tools.</li>
+    <li>Worked with feature development in my domain including testing activities.</li>
   </ul>
   <li><b>Summer Intern R&D</b>, <a href="https://www.ericsson.com/en">Ericsson</a>, Stockholm, Sweden (Jun 2021 - Aug 2021)</li>
   <ul>
-    <li>Developed a python tool to automatically check Ericsson code disclaimers of the created and last-modified dates form the git log</li>
-    <li>Extracted and compared real-time Baseband Uplink Products data with test use cases, and visualized data on Ericsson developer website</li>
-    <li>Built Include What You Used (IWYU) with Ericsson compiler to get support for Ericsson written code; then used IWYU to replace compiler innovations to check code header inclusion</li>
+    <li>Developed a tool to automatically check Ericsson code disclaimers of the created and last-modified dates from the git log.</li>
+    <li>Extracted and compared real-time Baseband Uplink Products data with test use cases, and visualized data on the Ericsson developer website.</li>
+    <li>Experimented with the 'FOSS Include What You Use' with the Ericsson compiler to enable support for Ericsson's proprietary code.</li>
   </ul>
 </ul>
 <br>
