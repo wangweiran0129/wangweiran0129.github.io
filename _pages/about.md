@@ -16,11 +16,12 @@ Prior to that, I obtained my MSc from [Royal Institute of Technology (KTH)](http
 For my future plan, I am now seeking for a PhD in the US/Europe in the application period beginning in this September 2023.
 The current progress (continuous updating based on the chronological order)
 <ul id="application_status">
-  <li> Georgia Tech - interviewed (4 Jan) / waiting the result
-  <li> EPFL - rej (25 Jan)
-  <li> Cornell - on WL (9 Feb) / final result will be no later than 5 Apr
-  <li> KTH - to be interviewed on 23 Feb
+  <li>Georgia Tech - interviewed (4 Jan) / waiting for the result</li>
+  <li>EPFL - rej (25 Jan)</li>
+  <li>Cornell - on WL (9 Feb) / final result will be no later than 5 Apr</li>
+  <li>KTH - to be interviewed on 23 Feb</li>
 </ul>
+<br>
 
 <h1>My Research Interests</h1>
 My research interest, in one single sentence, is the design and optimization of networked system (especially for the low-latency network). Specifically, it straddles the complex domain of networked systems and its interdisciplinary interfaces, include but not limited to:
@@ -30,9 +31,12 @@ My research interest, in one single sentence, is the design and optimization of 
  <li> The application of machine learning and game theory in the optimization of networked systems </li>
  <li> Telecom areas including 5G RAN and Cloud RAN (Now, I am working on the virtualized digital unit in uplink control plane)</li>
 </ul>
+<br>
 
 <h1>Do I really love my research direction?</h1>
 When I was young, I harbored dreams of becoming a pilot or aircraft designer, but my high myopia made this path unattainable. However, this setback led me to find a different kind of ‘cloud’ to contribute to - cloud computing. Emotionally, I see parallels between cloud computing and airplanes: both serve as carriers, transporting passengers or network packets from sources to destinations. My curiosity extends beyond the technicalities of the human element - how these journeys impact people’s lives and emotions. I recall a poignant moment on a flight where a passenger behind me wept over a relative’s health issue. It was then that I wished I could have the ability to build faster networked systems, capable of conveying human sentiments and concerns more swiftly. This experience fueled my aspiration for cloud computing to evolve beyond a mere technological marvel. I envision it as a medium that not only enhances efficiency but also connects and empathizes with human emotions.
+<br>
+<br>
 
 <h1>Fun Facts</h1>
 <ul id="fun_facts">
@@ -50,6 +54,5 @@ When I was young, I harbored dreams of becoming a pilot or aircraft designer, bu
       <li><a href="https://www.youtube.com/watch?v=ji5_MqicxSo">The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something!</a></li>
     </ul>
   </li>
-
 </ul>
 <br>
