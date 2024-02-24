@@ -16,11 +16,11 @@ Prior to that, I obtained my MSc from [Royal Institute of Technology (KTH)](http
 For my future plan, I am now seeking for a PhD in the US/Europe in the application period beginning in September 2023.
 The current progress is as followed (continuous updating based on the chronological order):
 <ul id="application_status">
-  <li>Georgia Tech - interviewed on 4 Jan / waiting for the result</li>
+  <li style="color:red">Georgia Tech - interviewed on 4 Jan / waiting for the result</li>
   <li>EPFL - rej on 25 Jan</li>
-  <li>Cornell - wl on 9 Feb / final result no later than 5 Apr</li>
-  <li>KTH - to be interviewed on 23 Feb</li>
+  <li style="color:red">Cornell - wl on 9 Feb / final result no later than 5 Apr</li>
   <li>UW-Madison - rej on 20 Feb</li>
+  <li style="color:red">KTH - interviewed on 23 Feb / waiting for the result</li>
 </ul>
 Well, getting accepted is a surprise and getting rejected is the norm.
 <br>
@@ -35,7 +35,7 @@ My research interest, in one single sentence, is the design and optimization of 
 </ul>
 <br>
 
-<h1>Do I really love my research direction?</h1>
+<h1>Do I Really Love My Research Direction?</h1>
 When I was young, I harbored dreams of becoming a pilot or aircraft designer, but my high myopia made this path unattainable. However, this setback led me to find a different kind of ‘cloud’ to contribute to - cloud computing. Emotionally, I see parallels between cloud computing and airplanes: both serve as carriers, transporting passengers or network packets from sources to destinations. My curiosity extends beyond the technicalities of the human element - how these journeys impact people’s lives and emotions. I recall a poignant moment on a flight where a passenger behind me wept over a relative’s health issue. It was then that I wished I could have the ability to build faster networked systems, capable of conveying human sentiments and concerns more swiftly. This experience fueled my aspiration for cloud computing to evolve beyond a mere technological marvel. I envision it as a medium that not only enhances efficiency but also connects and empathizes with human emotions.
 <br>
 <br>
