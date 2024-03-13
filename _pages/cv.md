@@ -39,7 +39,7 @@ For the formalized two-pages CV pdf, please refer <a href="https://wangweiran012
 <ul>
   <li><b>5G Baseband Software Developer</b>, <a href="https://www.ericsson.com/en">Ericsson</a>, Stockholm, Sweden (Sep 2022 - Ongoing)</li>
   <ul>
-    <li>Integrating 5G RAN and Cloud RAN into One RAN</li>
+    <li>Integrating 5G RAN and Cloud RAN into One RAN.</li>
     <li>Serving on the Module Product Care for User Plane Control Uplink, aiming to enhance the robustness of 5G baseband source code.</li>
     <li>Developed a framework for Software Quality Indications to track quality improvement initiatives systematically.</li>
     <li>Improved code quality and identified potential bugs by using static and dynamic code analysis tools.</li>
